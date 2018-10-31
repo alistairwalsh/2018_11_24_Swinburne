@@ -600,3 +600,4 @@ eventbrite: "51993336469"          # optional: alphanumeric key for Eventbrite r
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
 {% endcomment %}
+</div>
