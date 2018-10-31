@@ -597,7 +597,4 @@ eventbrite: "51993336469"          # optional: alphanumeric key for Eventbrite r
   which has instructions on how to test that everything was installed correctly.
   </p>
 {% endcomment %}
-</div> {% comment %} End of 'Python' section. {% endcomment %}
-
-{% endcomment %}
 </div>
